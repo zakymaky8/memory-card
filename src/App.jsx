@@ -94,7 +94,7 @@ function App() {
 
       <div>
         {all.length === 0 ? <h1>Loading...</h1> :
-        <div className='flex m-10 gap-6 flex-wrap'>
+        <div className='flex gap-6 flex-wrap justify-center mt-6'>
           {
             all.map((data, index) => <Card key={data.name + index} limit={limit} shuffle = {shuffle} all={all} countScore = {countScore} names={data}/>)
           }
