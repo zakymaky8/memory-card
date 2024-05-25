@@ -8,7 +8,9 @@ const Welcom = ({
               all,
               isHome,
               setIsHome,
-              setLevel}) => {
+              setLevel,
+              clearOnLevelChange
+            }) => {
 
   return (
     <div className="flex flex-col justify-around h-96 items-center">
@@ -27,6 +29,7 @@ const Welcom = ({
             setLimit(e.target.value)
             setScore(0)
             setBestScore(0)
+            clearOnLevelChange()
             }}>
 
             <option value={8}>Easy</option>

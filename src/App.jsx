@@ -30,7 +30,9 @@ function App() {
     shufInd.forEach(id=> newArr.push(copyCard[id]))
     setAll(newArr)
   }
-
+  function clearOnLevelChange() {
+    nameRef.current = []
+  }
   function countScore(namee) {
     if (nameRef.current.includes(namee)) {
       nameRef.current = []
@@ -87,7 +89,8 @@ function App() {
         all={all}
         isHome={isHome}
         setIsHome={setIsHome}
-        setLevel={setLevel} /> :
+        setLevel={setLevel}
+        clearOnLevelChange={clearOnLevelChange} /> :
 
       <div>
         {all.length === 0 ? <h1>Loading...</h1> :
