@@ -1,6 +1,6 @@
 # Memory-card
 
-A project based in curricular progress of [TOP]('https://www.theodinproject.com/lessons/node-path-react-new-memory-card')
+A project based in curricular progress of [TOP](https://www.theodinproject.com/lessons/node-path-react-new-memory-card)
 
 ## Description
 
@@ -54,7 +54,7 @@ npm run dev
 ```
 
 ## API Documentation
-This project works by fetching images and their names from an api end point, [pokemonApi]('https://pokeapi.co/')
+This project works by fetching images and their names from an api end point, [pokemonApi](https://pokeapi.co/)
 
 ## Contributing
 
@@ -63,8 +63,8 @@ This project works by fetching images and their names from an api end point, [po
 3. And code around limitlesslly
 
 ## License
-This project is licensed under the [MIT License]('https://github.com/Uwancha/memory-card/blob/main/LICENSE').Feel free to play around manipulating it.
+This project is licensed under the [MIT License](https://github.com/Uwancha/memory-card/blob/main/LICENSE).Feel free to play around manipulating it.
 
 ## Live Demo
 
-[Hit here]('https://memriseit.netlify.app/') and got it
+[Hit here](https://memriseit.netlify.app/) and got it
