@@ -25,8 +25,8 @@ A project based in curricular progress of [TOP](https://www.theodinproject.com/l
 - This game isn't feature-rich as long as is built to utilize on-learning concepts in react.
 - From the inception the app shows up with home page to maintain the game and check preferences for how to deal with the game.
 - There are levels to maintain the level of difficulty
-- Mid level interactivity with an alert for mishaps for failure in the game.
-- Different Card numbers in each level are assigned.
+- Mid level interactivity with an alert for mishaps during playing.
+- Different amount of Card in each level are determined.
 
 ## Screenshot
 
