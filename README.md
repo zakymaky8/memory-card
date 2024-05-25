@@ -33,7 +33,7 @@ A project based in curricular progress of [TOP]('https://www.theodinproject.com/
 Here is the minimal and optimal overview for the app.
 
 
-![project overview](./src/assets/mainpage.png)
+![project overview](./src/mainpage.png)
 
 ## Installation
 
